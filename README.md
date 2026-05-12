@@ -10,13 +10,7 @@ Built as a portfolio project demonstrating applied AI, data engineering, and sof
 
 ## Live Demo
 
-> Coming soon — deploy link will be added here after Streamlit Cloud deployment.
-
----
-
-## Screenshots
-
-> Add screenshots of Dashboard, Add Materials, and AI Assistant pages here.
+> https://carbonlensicev3.streamlit.app/
 
 ---
 
